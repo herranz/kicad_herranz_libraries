@@ -73,7 +73,7 @@
   (pad "46" thru_hole circle (at 15.257777 53.357778) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp 044dde97-ee2e-473a-9264-ed4dff1893a5))
   (pad "47" thru_hole circle (at 15.24 55.88) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp f08895dc-4dcb-4aef-a39b-5a08864cdaaf))
   (pad "48" thru_hole circle (at 15.24 58.422222) (size 2 2) (drill 0.9) (layers *.Cu *.Mask) (tstamp 6d7ff8c0-8a2a-4636-844f-c7210ff3e6f2))
-  (model "C:/Users/rucio/Documents/KiCad/6.0/library/kicad_herranz_libraries/herranz - various/footprint/STEPs/Cmod_A7.stp"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - various/footprint/STEPs/Cmod_A7.stp"
     (offset (xyz 7.6 -32.36 6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

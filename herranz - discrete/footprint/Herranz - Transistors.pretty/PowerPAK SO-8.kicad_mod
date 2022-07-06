@@ -37,7 +37,7 @@
   (pad "3" smd rect (at -2.67 0.635) (size 1.27 0.61) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2a34526b-c876-4757-972c-2c6612db60b0))
   (pad "3" smd rect (at -2.67 1.905) (size 1.27 0.61) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4728fe4f-bdf0-4623-9254-45dda78737d4))
   (pad "3" smd rect (at -2.67 -0.635) (size 1.27 0.61) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6ee83c45-8c83-463c-8751-ee75e6cf3c29))
-  (model "C:/Users/rucio/Documents/KiCad/6.0/library/kicad_herranz_libraries/herranz - discrete/footprint/Steps/SI7540DP-T1-GE3.STEP"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - discrete/footprint/Steps/SI7540DP-T1-GE3.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

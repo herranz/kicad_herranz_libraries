@@ -18,7 +18,7 @@
   (pad "" np_thru_hole circle (at 0 12.8) (size 3 3) (drill 3) (layers F&B.Cu *.Mask) (tstamp 9dc23e08-4eeb-44b7-beaf-d86c87054197))
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.8) (layers *.Cu *.Mask) (tstamp fe279a83-7805-4863-91f5-1ce40ab8edd7))
   (pad "2" thru_hole circle (at 0 5.5) (size 3 3) (drill 1.8) (layers *.Cu *.Mask) (tstamp ecdfff11-7ef7-4202-938d-87326173795a))
-  (model "C:/Users/rucio/Documents/KiCad/6.0/library/kicad_herranz_libraries/herranz - connectors/footprint/Steps/026013114.stp"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - connectors/footprint/Steps/026013114.stp"
     (offset (xyz 0 -19.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

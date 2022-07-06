@@ -22,7 +22,7 @@
   (pad "" smd circle (at 0 0) (size 6.5 6.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7e08f2a4-63d6-468b-bd8b-ec607077e023))
   (pad "1" smd roundrect (at 6.55 -1) (size 3.5 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 02165243-61a3-4857-84ba-71a77cb9a387))
   (pad "2" smd roundrect (at -6.55 1) (size 3.5 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp edc9ab4f-487a-48dc-95f2-4d87f0e9cf9e))
-  (model "C:/Users/rucio/Documents/KiCad/6.0/library/kicad_herranz_libraries/herranz - optoelectronics/footprint/herranz-highpowerLED.pretty/STEP/1W_cheap_LED.stp"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - optoelectronics/footprint/herranz-highpowerLED.pretty/STEP/1W_cheap_LED.stp"
     (offset (xyz 0 0 0.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

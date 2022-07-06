@@ -92,7 +92,7 @@
   (pad "37" smd roundrect (at 8.82 13.19) (size 1.45 0.93) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.23) (tstamp 58a87288-e2bf-4c88-9871-a753efc69e9d))
   (pad "38" smd roundrect (at 8.82 11.92) (size 1.45 0.93) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.23) (tstamp 1527299a-08b3-47c3-929f-a75c83be365e))
   (pad "39" smd rect (at -1.37 19.71) (size 4 4) (layers "F.Cu" "F.Mask") (tstamp aa288a22-ea1d-474d-8dae-efe971580843))
-  (model "C:/Users/HerranzB/Documents/Kicad/6.0/library/kicad_herranz_libraries/herranz - ic/footprint/STEPS/ESP32-WROVER-I--3DModel-STEP-56544.STEP"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - ic/footprint/STEPS/ESP32-WROVER-I--3DModel-STEP-56544.STEP"
     (offset (xyz 0 -20.18 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

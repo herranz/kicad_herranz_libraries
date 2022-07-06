@@ -28,7 +28,7 @@
   (pad "2" smd rect (at -1.5 3.6) (size 1.4 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a97391c0-c438-44dc-aec7-4249e6f62568))
   (pad "3" smd rect (at 1.5 -3.6) (size 1.4 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cdf69da0-bf1d-48b6-92e4-7b762bd4454d))
   (pad "4" smd rect (at 1.5 3.6) (size 1.4 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3eee2221-7af9-4d6a-ba79-a48c3fd1ac35))
-  (model "C:/Users/rucio/Documents/KiCad/6.0/library/kicad_herranz_libraries/herranz - various/footprint/STEPs/TL3305AF260QG.step"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - various/footprint/STEPs/TL3305AF260QG.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

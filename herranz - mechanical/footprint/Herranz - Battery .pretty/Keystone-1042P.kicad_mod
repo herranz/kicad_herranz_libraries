@@ -32,7 +32,7 @@
   (pad "" np_thru_hole circle (at -24.855 7.111) (size 3.4544 3.4544) (drill 3.4544) (layers *.Cu *.Mask) (tstamp e511deb3-ba15-48e6-84d9-8d26b9cee4aa))
   (pad "1" smd rect (at -36.92 -0.89) (size 7.4676 6.477) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 84a732b5-1b5f-4ec5-bedf-8e0ccc110e7a))
   (pad "2" smd rect (at 42.455 -0.89) (size 7.4676 6.477) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f40f0b41-035c-4eeb-971f-0ea98e165815))
-  (model "C:/Users/HerranzB/Documents/Kicad/6.0/library/kicad_herranz_libraries/herranz - mechanical/footprint/STEPs/KEYELCO_1042.STEP"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - mechanical/footprint/STEPs/KEYELCO_1042.STEP"
     (offset (xyz 2.8 0.85 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

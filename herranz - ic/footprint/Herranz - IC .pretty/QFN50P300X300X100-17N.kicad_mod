@@ -56,9 +56,4 @@
   (pad "20" thru_hole circle (at 0.58 -0.58) (size 0.4 0.4) (drill 0.2) (layers *.Cu) (tstamp 02b1295e-cf95-47ff-9c57-f8ada28f2e94))
   (pad "21" thru_hole circle (at -0.58 0.58) (size 0.4 0.4) (drill 0.2) (layers *.Cu) (tstamp 62a1b97d-067d-487c-835b-0166330d25fe))
   (pad "22" thru_hole circle (at 0.58 0.58) (size 0.4 0.4) (drill 0.2) (layers *.Cu) (tstamp 69f75991-c8c0-49a9-aed8-daa6ca9a5d73))
-  (model "C:/Users/rucio/Desktop/To delete/DRV8876RGTR.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
 )

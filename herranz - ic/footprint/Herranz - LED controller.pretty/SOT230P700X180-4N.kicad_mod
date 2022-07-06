@@ -28,7 +28,7 @@
   (pad "2" smd rect (at -3.345 0) (size 1.32 0.92) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 036fe321-0d7a-4176-b2fb-9fcba70499b9))
   (pad "3" smd rect (at -3.345 2.3) (size 1.32 0.92) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 39fd91b9-39f0-4e5a-b4b2-b7169dc5abbf))
   (pad "4" smd rect (at 3.345 0) (size 1.32 3.23) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp eddb9312-dced-479f-9ef3-240570d408f9))
-  (model "C:/Users/rucio/Documents/KiCad/6.0/library/kicad_herranz_libraries/herranz - ic/footprint/Herranz - LED controller.pretty/NCR321ZX/SOT230P700X180-4N.step"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - ic/footprint/Herranz - LED controller.pretty/NCR321ZX/SOT230P700X180-4N.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
   (symbol "Gen_C" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
-    (property "Reference" "C" (id 0) (at 0 6 0)
+    (property "Reference" "C" (id 0) (at 4 -4 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Gen_C" (id 1) (at 0 6 0)
+    (property "Value" "Gen_C" (id 1) (at 6 -2 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 0 6 0)
@@ -11,6 +11,9 @@
     )
     (property "Datasheet" "" (id 3) (at 0 6 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Voltage" "Voltage" (id 4) (at 7 -6 0)
+      (effects (font (size 1.27 1.27)))
     )
     (symbol "Gen_C_0_1"
       (polyline

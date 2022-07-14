@@ -24,7 +24,7 @@
       (polyline
         (pts
           (xy -2.666 0)
-          (xy -4.5 0)
+          (xy -5 0)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -136,7 +136,7 @@
         (name "D" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at -6.5 0 0) (length 2)
+      (pin input line (at -7 0 0) (length 2)
         (name "G" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )

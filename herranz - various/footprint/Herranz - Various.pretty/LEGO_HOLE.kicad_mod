@@ -1,0 +1,18 @@
+(footprint "LEGO_HOLE" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -3.75 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b71139c1-b42e-4f2f-820c-64a2bcb435c8)
+  )
+  (fp_text value "LEGO_HOLE" (at 0.04 4.31 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c0505d6b-8f45-4d4c-831d-4a621a34feae)
+  )
+  (fp_text user "${REFERENCE}" (at 0.06 5.66 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 51a6bc74-8e76-4625-8cf0-41731d5a1ca0)
+  )
+  (pad "" thru_hole circle (at 0 0) (size 6 6) (drill 4.9) (layers *.Cu *.Mask) (tstamp 2b9f86b5-fa0f-498d-bf78-e7f590f44e6a))
+)

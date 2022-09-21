@@ -54,7 +54,7 @@
   (pad "18" smd rect (at 2.54 0) (size 1.25 3.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp afea2bda-f6ba-4a76-ab00-1b87473df770))
   (pad "19" smd rect (at 0 0) (size 1.25 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2ccc9573-e004-4a48-872c-72004a059bed))
   (pad "20" smd rect (at 0 0) (size 1.25 3.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 1ad0962c-7526-444c-8f40-89b47c8f28d1))
-  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - various/footprint/STEPs/SFH11-xxPC-D10-ST-BK.STEP"
+  (model "${KICAD_HERRANZ_LIB}/kicad_herranz_libraries/herranz - connectors/footprint/Steps/SFH11-xxPC-D10-ST-BK.STEP"
     (offset (xyz 12.7 10.5 -0.85))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -90 0))

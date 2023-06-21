@@ -537,7 +537,7 @@
     (property "Value" "Rpi Pico" (at -20 -46 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "Herranz - DevBoards:Rpi_Pico" (at 0 0 0)
+    (property "Footprint" "Herranz - DevBoards:Raspberry_Pi_Pico_SMT_THT" (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 0 0 0)

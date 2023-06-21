@@ -436,7 +436,7 @@
       )
     )
   )
-  (model ":KICAD_HERRANZ_LIB:herranz - various/footprint/STEPs/PICO_PinsDown.STEP"
+  (model ":KICAD_HERRANZ_LIB:kicad_herranz_libraries/herranz - various/footprint/STEPs/PICO_PinsDown.STEP"
     (offset (xyz -1.6 -49.63 7))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

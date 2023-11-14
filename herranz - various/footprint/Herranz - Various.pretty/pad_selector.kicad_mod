@@ -1,0 +1,21 @@
+(footprint "pad_selector" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0.02 -1.56 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 259aa7bd-0761-49e1-a9ac-6111cae7846e)
+  )
+  (fp_text value "pad_selector" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fa5ea42b-fd12-44cf-aca1-dc5e79fd9359)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a7a99a4a-07ab-46ef-af63-9b37acbeae07)
+  )
+  (fp_rect (start -2.23 -1) (end 2.31 0.98)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp f66ffe17-7f6a-483c-b147-2fb0dc1809af))
+  (pad "1" smd roundrect (at -1.5 0) (size 1 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 96e869e5-d33d-48c9-9193-234026c929f6))
+  (pad "2" smd roundrect (at 1.5 0) (size 1 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b8575537-9b73-401d-983a-a60bfec55cf0))
+  (pad "3" smd roundrect (at 0 0) (size 1 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3b853588-6a41-437b-a8c5-6b5b0208eb74))
+)
